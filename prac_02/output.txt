@@ -1,0 +1,3 @@
+On day 1 price is: $9.98
+On day 2 price is: $10.96
+On day 3 price is: $11.50
